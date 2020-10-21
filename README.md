@@ -63,7 +63,7 @@ CHANNEL_LAYERS = {
 
 
 
-## Chat coustumer
+## Chat consumer
 
 ```bash
 
